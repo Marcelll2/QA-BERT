@@ -1,0 +1,107 @@
+[
+  {
+    "context": "The normal fetal heart rate ranges from 110 to 160 beats per minute.",
+    "question": "what is the normal fetal heart rate range?",
+    "answer_text": "110 to 160 beats per minute"
+  },
+  {
+    "context": "A high fetal heart rate can be caused by maternal fever or fetal distress.",
+    "question": "what causes a high fetal heart rate?",
+    "answer_text": "maternal fever or fetal distress"
+  },
+  {
+    "context": "A healthy fetal heart rate typically falls within the range of 110 to 160 beats per minute.",
+    "question": "what is the typical fetal heart rate range?",
+    "answer_text": "110 to 160 beats per minute"
+  },
+  {
+    "context": "Fetal heart rates are generally considered normal when they range from 110 to 160 beats per minute.",
+    "question": "what is considered a normal fetal heart rate?",
+    "answer_text": "110 to 160 beats per minute"
+  },
+  {
+    "context": "A fetus’s heart rate should ideally be between 110 and 160 beats per minute.",
+    "question": "what is the ideal range for a fetal heart rate?",
+    "answer_text": "110 and 160 beats per minute"
+  },
+  {
+    "context": "The expected heart rate for a fetus is around 110 to 160 beats per minute.",
+    "question": "what is the expected fetal heart rate?",
+    "answer_text": "110 to 160 beats per minute"
+  },
+  {
+    "context": "A normal fetal heart rate ranges from 110 to 160 beats per minute under usual conditions.",
+    "question": "what is a normal fetal heart rate under usual conditions?",
+    "answer_text": "110 to 160 beats per minute"
+  },
+  {
+    "context": "A high fetal heart rate may result from maternal fever, dehydration, or fetal distress.",
+    "question": "what can lead to an increased fetal heart rate?",
+    "answer_text": "maternal fever, dehydration, or fetal distress"
+  },
+  {
+    "context": "An elevated fetal heart rate is often associated with maternal fever or fetal distress.",
+    "question": "what are common causes of an elevated fetal heart rate?",
+    "answer_text": "maternal fever or fetal distress"
+  },
+  {
+    "context": "Fetal tachycardia, defined as a heart rate above 160 beats per minute, can be due to maternal fever or fetal distress.",
+    "question": "what is fetal tachycardia and what causes it?",
+    "answer_text": "maternal fever or fetal distress"
+  },
+  {
+    "context": "An abnormally high fetal heart rate can be a response to maternal fever or distress experienced by the fetus.",
+    "question": "what might cause an abnormally high fetal heart rate?",
+    "answer_text": "maternal fever or distress"
+  },
+  {
+    "context": "Maternal infections and fetal distress are among the primary causes of an increased fetal heart rate.",
+    "question": "what are the primary causes of an increased fetal heart rate?",
+    "answer_text": "Maternal infections and fetal distress"
+  },
+  {
+    "context": "Maternal fever, dehydration, and fetal distress can all contribute to a rapid fetal heart rate.",
+    "question": "what factors contribute to a rapid fetal heart rate?",
+    "answer_text": "Maternal fever, dehydration, and fetal distress"
+  },
+  {
+    "context": "A fetus experiencing distress may exhibit an increased heart rate as a response.",
+    "question": "how does fetal distress impact heart rate?",
+    "answer_text": "increased heart rate"
+  },
+  {
+    "context": "Fetal heart rate abnormalities, such as tachycardia, can be triggered by maternal conditions like fever or dehydration.",
+    "question": "what maternal conditions can trigger fetal tachycardia?",
+    "answer_text": "fever or dehydration"
+  },
+  {
+    "context": "An increased fetal heart rate is often a sign of underlying maternal conditions, including fever and dehydration.",
+    "question": "what are some maternal conditions associated with an increased fetal heart rate?",
+    "answer_text": "fever and dehydration"
+  },
+  {
+    "context": "Fetal distress or maternal fever are two significant factors leading to an unusually high fetal heart rate.",
+    "question": "what are two significant factors that cause an unusually high fetal heart rate?",
+    "answer_text": "Fetal distress or maternal fever"
+  },
+  {
+    "context": "A high fetal heart rate may be due to maternal conditions such as infection, stress, or dehydration.",
+    "question": "what maternal conditions can cause a high fetal heart rate?",
+    "answer_text": "infection, stress, or dehydration"
+  },
+  {
+    "context": "Fetal heart rate fluctuations may occur due to factors such as maternal dehydration or fetal stress.",
+    "question": "what factors can cause fetal heart rate fluctuations?",
+    "answer_text": "maternal dehydration or fetal stress"
+  },
+  {
+    "context": "When a fetus experiences distress, an increased heart rate is often observed as a physiological response.",
+    "question": "what physiological response is observed in a distressed fetus?",
+    "answer_text": "increased heart rate"
+  },
+  {
+    "context": "A fetus’s heart rate exceeding 160 beats per minute is typically a sign of stress or maternal fever.",
+    "question": "what does a fetal heart rate over 160 beats per minute indicate?",
+    "answer_text": "stress or maternal fever"
+  }
+]

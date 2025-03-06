@@ -1,0 +1,27 @@
+[
+  {
+    "context": "The normal fetal heart rate typically falls between 110 and 160 beats per minute.",
+    "question": "what is the typical fetal heart rate range?",
+    "answer_text": "110 and 160 beats per minute"
+  },
+  {
+    "context": "Maternal fever, stress, or dehydration can lead to an increased fetal heart rate.",
+    "question": "what factors can cause an increased fetal heart rate?",
+    "answer_text": "Maternal fever, stress, or dehydration"
+  },
+  {
+    "context": "Fetal tachycardia is defined as a heart rate exceeding 160 beats per minute, often caused by maternal conditions such as fever or infection.",
+    "question": "what is fetal tachycardia and what causes it?",
+    "answer_text": "Fetal tachycardia is defined as a heart rate exceeding 160 beats per minute"
+  },
+  {
+    "context": "A high fetal heart rate may indicate fetal distress or a response to maternal dehydration.",
+    "question": "what might a high fetal heart rate indicate?",
+    "answer_text": "fetal distress or a response to maternal dehydration"
+  },
+  {
+    "context": "A fetus experiencing distress may have an abnormally high or low heart rate as a physiological response.",
+    "question": "how does a fetus respond to distress?",
+    "answer_text": "an abnormally high or low heart rate"
+  }
+]

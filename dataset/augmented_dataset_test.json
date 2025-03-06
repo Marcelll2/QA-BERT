@@ -1,0 +1,14 @@
+[
+  {
+    "context": "The normal fetal heart rate ranges from 110 to 160 beats per minute.",
+    "question": "What is the normal fetal heart rate?",
+    "answer": "The normal fetal heart rate ranges from 110 to 160 beats per minute.",
+    "answer_text": "110 to 160 beats per minute"
+  },
+  {
+    "context": "A high fetal heart rate can be caused by maternal fever or fetal distress.",
+    "question": "What causes a high fetal heart rate?",
+    "answer": "A high fetal heart rate can be caused by maternal fever or fetal distress.",
+    "answer_text": "maternal fever or fetal distress"
+  }
+]
